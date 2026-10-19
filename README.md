@@ -27,9 +27,13 @@ INSTALL
 
 CONTROLS
 --------
-Left stick ......... walk                     Right stick left/right .. turn (first person)
+Left stick ......... walk
 
-Right stick up ..... d-pad right              Right stick down ........ d-pad left   (first person)
+Right stick left/right .. turn (first person)
+
+Right stick up ..... d-pad right             
+
+Right stick down ........ d-pad left   (first person)
 
 Normal view: the right stick is the gamepad's right stick (no turning / d-pad from it).
 
@@ -43,13 +47,21 @@ Right grip ......... ready / aim the gun where your right hand points + red lase
 
 Left stick click ... run (until you stop walking or click again)
 
-Left grip .......... LB                       Hold LB + left stick click .. flashlight on / off
+Left grip .......... LB 
 
-A .................. A                        Hold Y .................. Y
+Hold LB + left stick click .. flashlight on / off
 
-B .................. B (sneak)               Tap Y ................... d-pad up
+A .................. A
 
-X (tap) ............ X                        Hold X .................. Back / View
+Hold Y .................. Y
+
+B .................. B (sneak)
+
+Tap Y ................... d-pad up
+
+X (tap) ............ X
+
+Hold X .................. Back / View
 
 X + Y together ..... Start (pause)
 
