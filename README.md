@@ -41,7 +41,7 @@ Right stick click .. switch first person / normal view
 
 Right trigger ...... RT (shoot - the character aims where your right hand points)
 
-Left trigger ....... RB (throw) - while held: aim with your right hand, right stick up / down = further / closer
+Left trigger ....... RB (throw) - while held further throwable go hold RB and move right controller to move position 
 
 Right grip ......... ready / aim the gun where your right hand points + red laser (while held)
 
