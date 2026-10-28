@@ -102,4 +102,4 @@ NormalViewZoom = 1 (the game's camera spot); smaller, e.g. 0.6, brings the norma
 NormalViewHeightOffset = metres up / down for the normal view.
 
 
-Uses Astien's OpenXR bridge (see BepInEx\plugins\IHVR\LICENSES). Free, non-commercial.
+Uses Astien's OpenXR bridge. Free, non-commercial.
